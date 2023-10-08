@@ -1,0 +1,118 @@
+.btn {
+    
+    border: none;
+    color: white ;
+    background-color:inherit ;
+    padding-right: 30px;
+    font-size: 15px;
+    cursor: pointer;
+   
+
+}
+.btn:hover{
+    color: black;
+    opacity:0.5;
+}
+
+.btn1 {
+    color: white;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(207, 104, 35);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px; 
+    padding-bottom:15px
+    
+
+}
+.btn1:hover{
+    background-color: black;
+    cursor: pointer;
+    opacity: 0.9;
+
+}
+
+.btn2 {
+    opacity: 1.9;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    color: white;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 15px; 
+    padding-bottom:15px;
+    border: none;
+    background-color: rgb(207, 104, 35);
+    
+    
+}
+.btn2:hover{
+    background-color: rgb(47, 110, 137);
+    cursor: pointer;
+    
+    
+}
+.btn3 {
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(207, 104, 35);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px; 
+    padding-bottom:15px
+    
+
+}
+.btn3:hover{
+    background-color: black;
+    cursor: pointer;
+    opacity: 0.9;
+
+}
+.btn4 {
+    color: white;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(207, 104, 35);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px; 
+    padding-bottom:15px
+    
+
+}
+.btn4:hover{
+    background-color: black;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+.btn5 , .btn6 {
+    color: white;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(207, 104, 35);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px; 
+    padding-bottom:15px
+
+}
+.btn5:hover{
+    background-color: black;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.btn6:hover{
+    background-color: black;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+
+

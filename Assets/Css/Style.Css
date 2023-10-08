@@ -1,0 +1,369 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("/Assets/Pics/header-bg.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.info{
+    display: flex;
+    justify-content:center;
+    margin-left: 600px;
+    font-family: cursive;
+    color: rgb(91, 138, 192);
+    background-color: white;
+    cursor: text;
+}
+
+
+
+.map1, .tel1, .mail1 { 
+   
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 40px;
+    font-size: 10px;
+
+}
+
+.image1 {
+    margin-right:500px;
+    margin-top: -30px;
+   
+}
+
+.navbar{
+    font-family: cursive;
+    justify-content: end;
+    display: flex;
+    padding-top: 30px;
+    padding-right: 150px;
+    margin-left: 100px;  
+}
+
+.Image2{
+  
+    padding-bottom: 100px;
+    text-align: center;
+    background-image: url("/Assets/Pics/banner.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:initial;
+    margin-top: -30px;
+    font-size: 13px;
+}
+
+.Image2 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 70px;
+    justify-content: center;
+    color: rgb(47, 188, 239);
+    
+}
+.span1{
+    color: white;
+}
+.Table1 {
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+    /* margin-bottom: 0%; */     
+}
+
+thread  {
+   
+    background-color: rgb(243, 240, 240);
+    margin-left: 170px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+table {
+    display: flex;
+    border: none;
+    width: 63%;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 170px;
+    text-align: start;
+    
+}
+table,td {
+    
+    
+    border-collapse: collapse;
+    border: none;
+    padding-right: 30px;
+    padding-bottom: 5px; 
+    background-color: rgb(226, 224, 224);
+    opacity: 0.9;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: start;
+}
+
+input {
+    padding: 5px;
+}
+select {
+    padding-left: 5px;
+    padding-right: 115px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+}
+.head {
+    display: flex;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+   
+.head hr {
+    display: block;
+    color: rgb(98, 192, 209); 
+}
+
+
+h2 {
+    font-size: 40px;
+    width: 70%; 
+    text-align: center; 
+    border-bottom: 2px solid rgb(46, 131, 155);
+    line-height: 2px;
+    margin-left: 200px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ } 
+ 
+h2 span { 
+    background:#FFF; 
+    padding:0 10px; 
+ }
+.text1 p{
+
+     
+    width: 670px;
+    margin-left: 430px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+ .module p{
+    width: 400px;
+    margin-left: 8px;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ 
+ }
+ .module {
+
+    width: 50%;
+    height: 300px;
+    background: #fdfbfa;
+    border: 10px solid #336699;  
+    margin-left: 250px;
+
+ }
+.module img {
+    width:600px;
+    height:400px;
+    margin-left:50%;
+    margin-top:-350px;
+
+}
+.class4 {
+    text-align: center;
+    
+}
+
+.htravel {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.ptravel {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px;
+    margin-left: 350px;
+
+
+}
+.icons {
+    display: flex;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:200px;
+
+}
+.icons p{
+    width: 300px;
+}
+.head2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.head2 p{
+    width: 900px;
+    margin-left: 350px;
+}
+.head2 img {
+    width: 100%
+   
+}
+
+.head3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.pbest {
+    width: 900px;
+    margin-left: 350px;
+}
+
+.Offer {
+    display: flex;
+    margin-left: 100px;
+    padding: 100px;
+}
+
+.head4 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image:url(/Assets/Pics/Amazing.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+}
+.hlondon {
+    text-align: center;
+    color: white;
+}
+.plondon {
+    width: 1000px;
+    margin-left: 300px;
+    font-size: 15px;
+}
+
+.hblog {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.pblog {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.Traillers {
+    display: flex;
+    margin-left: 190px;
+    
+}
+.Trailler {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.trailler:hover{
+    cursor: grab;
+}
+
+.hvideo {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.pvideo {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    
+}
+.Five {
+    background-color: rgb(3, 47, 72);
+   
+}
+.social img {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: -50px;
+}
+.social ul {
+    display: flex;
+    text-align: left;
+    list-style: none;
+    padding:50px;
+    
+    margin-left: 60px;
+}
+.informations {
+    display: flex;
+    color: #FFF;
+}
+
+.info1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 120px ;
+    
+}
+
+.info2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 150px;
+ 
+}
+
+.info3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 150px;
+    
+}
+.form {
+    display: flex;
+
+}
+.form input {
+    padding: 5px;
+    padding: 10px;
+}
+.emailForm {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#message {
+    text-align: start;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: start;
+    padding-right: 210px;
+    padding-top: 20px;
+}
+#btn-submit {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding : 10px 30px;
+    background-color: #18213b;
+    margin-left: 325px;
+    color: #FFF;
+    margin-top: 20px;
+    border: none;
+    
+    
+}
+#btn-submit:hover {
+    background-color: #2f71b3;
+    cursor: pointer;
+    opacity: 0.5;
+}
+.final  {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.final hr {
+    width:40%;
+}
+.final p{
+    font-size: 15px;
+    color: rgb(235, 231, 231);
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+
